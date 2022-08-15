@@ -1,0 +1,7 @@
+Process of Two-Factor Authentication on Google
+Step 1: Go to myaccount.google.com and login your account and go to security
+Step 2: Click on 2-Step Verification
+Step 3: Choose the Security method you want to implement (In my case I will choose Text message or voice over call)
+Step 4: Add your phone number and choose the option of how do you want to get codes click next
+Step 5: After Adding your Phone number a code will be send to your given phone number, Enter the correct code that is send on your Phone number
+Step 6: After the code is enter correctly the google verify the code and ask to turn on 2-Step Verification, after clicking on Turn ON the 2-step verification is turn on

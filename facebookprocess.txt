@@ -1,0 +1,7 @@
+Process of Two-Factor Authentication on Facebook
+Step 1: Login to your Facebook Account and Go to Setting 
+Step 2: Click on Security and Login
+Step 3: Click on Use two-factor authentication, select a security method you want to implement (In my case I will choose Text Message (SMS))
+Step 4: Add your phone number and click continue
+Step 5: After Adding your Phone number a code will be send to your given phone number, Enter the correct code that is send on your Phone number
+Step 6: After the code is enter correctly it verify the code and the two-factor authentication of Text Message (SMS) is activated
